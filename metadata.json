@@ -1,0 +1,7 @@
+{
+  "name": "IncomeWatch: Sovereign CEO Dashboard",
+  "description": "A high-precision financial visualizer that transforms MRR into real-time income-per-millisecond metrics, featuring a Sovereign AI Research Architect for autonomous growth strategy.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
